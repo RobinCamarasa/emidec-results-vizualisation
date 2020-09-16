@@ -6,7 +6,7 @@ This repository contains the codes to display the prediction on the test set of 
 
 - Clone the repository
 ```bash
-git clone https://gitlab.com/robin-camarasa-phd/emidec-2020/result-vizualization.git
+git clone https://github.com/RobinCamarasa/emidec-results-vizualisation.git
 ```
 - Install the requirements
 ```bash
